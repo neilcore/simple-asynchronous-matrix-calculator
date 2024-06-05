@@ -1,5 +1,7 @@
 # simple-asynchronous-matrix-calculator
 # THIS PROJECT IS A WORK IN PROGRESS. ANYTHING CAN CHANGE AT ANY MOMENT WITHOUT ANY NOTICE!
 This program demostrates simple calculation of matrices asynchronously. it is written on java/springboot.
+uses Jackson for JSON parsing.
+jackson repository: https://github.com/FasterXML/jackson
 MATRICES WIKIPEDIA: https://en.wikipedia.org/wiki/Matrix_(mathematics)
 YOUTUBE: https://www.youtube.com/watch?v=yRwQ7A6jVLk
